@@ -1,0 +1,6 @@
+/*
+/*/
+!.gitignore
+!/processor/
+!server.properties
+!start.bat
